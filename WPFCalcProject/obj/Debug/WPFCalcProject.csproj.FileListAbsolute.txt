@@ -1,0 +1,14 @@
+C:\Users\Savadrox\source\repos\WPFCalcProject\WPFCalcProject\bin\Debug\WPFCalcProject.exe.config
+C:\Users\Savadrox\source\repos\WPFCalcProject\WPFCalcProject\bin\Debug\WPFCalcProject.exe
+C:\Users\Savadrox\source\repos\WPFCalcProject\WPFCalcProject\bin\Debug\WPFCalcProject.pdb
+C:\Users\Savadrox\source\repos\WPFCalcProject\WPFCalcProject\obj\Debug\MainWindow.g.cs
+C:\Users\Savadrox\source\repos\WPFCalcProject\WPFCalcProject\obj\Debug\App.g.cs
+C:\Users\Savadrox\source\repos\WPFCalcProject\WPFCalcProject\obj\Debug\WPFCalcProject_MarkupCompile.cache
+C:\Users\Savadrox\source\repos\WPFCalcProject\WPFCalcProject\obj\Debug\WPFCalcProject_MarkupCompile.lref
+C:\Users\Savadrox\source\repos\WPFCalcProject\WPFCalcProject\obj\Debug\MainWindow.baml
+C:\Users\Savadrox\source\repos\WPFCalcProject\WPFCalcProject\obj\Debug\WPFCalcProject.g.resources
+C:\Users\Savadrox\source\repos\WPFCalcProject\WPFCalcProject\obj\Debug\WPFCalcProject.Properties.Resources.resources
+C:\Users\Savadrox\source\repos\WPFCalcProject\WPFCalcProject\obj\Debug\WPFCalcProject.csproj.GenerateResource.cache
+C:\Users\Savadrox\source\repos\WPFCalcProject\WPFCalcProject\obj\Debug\WPFCalcProject.exe
+C:\Users\Savadrox\source\repos\WPFCalcProject\WPFCalcProject\obj\Debug\WPFCalcProject.pdb
+C:\Users\Savadrox\source\repos\WPFCalcProject\WPFCalcProject\obj\Debug\WPFCalcProject.csprojAssemblyReference.cache
